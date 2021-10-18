@@ -19,3 +19,8 @@ fields:
   - type: file
     name: image
     label: image
+- name: uau
+  type: tag_list
+  default: []
+  label: uau
+  description: aaaa
