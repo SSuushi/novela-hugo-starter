@@ -20,3 +20,10 @@ fields:
 - type: list
   name: authors
   label: authors
+- name: teste
+  type: boolean
+  label: Teste
+  description: asadasd asdas as
+  default: false
+  showOnly:
+    field: teste
